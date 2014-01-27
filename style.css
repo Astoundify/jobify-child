@@ -1,0 +1,18 @@
+/*
+Theme Name: Jobify - Child
+Theme URI: https://astoundify.com/
+Author: Astoundify
+Author URI: http://astoundify.com
+Description: A beautiful job board site completely integrated with Mike Jolley's WP Job Manager plugin. Use 10+ custom widgets including an interactive map, multiple sliders, testimonials, and more to create a unique homepage in seconds.
+Version: 1.5.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: white, one-column, right-sidebar, fixed-width, custom-background, custom-header, theme-options, full-width-template, featured-images, flexible-header, custom-menu, translation-ready
+Template: jobify
+*/
+
+@import url('../jobify/style.css');
+
+/**
+ * Place Custom CSS Below this.
+ */
