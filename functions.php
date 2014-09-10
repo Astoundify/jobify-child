@@ -4,6 +4,6 @@
  *
  * Place any custom functionality/code snippets here.
  *
- * @since Jobify Child 1.0
+ * @since Jobify Child 1.0.0
  */
 
